@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/GEEK_ASSINGMENT_React_Props_001-COLOR-PICKER-/static/css/main.fd2892a9.css",
+    "main.js": "/GEEK_ASSINGMENT_React_Props_001-COLOR-PICKER-/static/js/main.39d65d80.js",
+    "static/js/787.c43bca38.chunk.js": "/GEEK_ASSINGMENT_React_Props_001-COLOR-PICKER-/static/js/787.c43bca38.chunk.js",
+    "index.html": "/GEEK_ASSINGMENT_React_Props_001-COLOR-PICKER-/index.html",
+    "main.fd2892a9.css.map": "/GEEK_ASSINGMENT_React_Props_001-COLOR-PICKER-/static/css/main.fd2892a9.css.map",
+    "main.39d65d80.js.map": "/GEEK_ASSINGMENT_React_Props_001-COLOR-PICKER-/static/js/main.39d65d80.js.map",
+    "787.c43bca38.chunk.js.map": "/GEEK_ASSINGMENT_React_Props_001-COLOR-PICKER-/static/js/787.c43bca38.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.fd2892a9.css",
+    "static/js/main.39d65d80.js"
+  ]
+}
